@@ -37,11 +37,12 @@
 
 ## Инструменты
 
-- Python 3.13
-- requests, urllib.parse - считывание данных
-- pandas, numpy, operator — обработка данных
-- matplotlib, seaborn — визуализация
-- Jupyter Notebook
+- **Язык:** Python 3.13
+- **Библиотеки:**
+  - `requests`, `urllib.parse` - считывание данных
+  - `pandas`, `numpy`, `operator` — обработка данных
+  - `matplotlib`, `seaborn` — визуализация
+- **Среда разработки:** Jupyter Notebook
 
 ## Ключевые результаты
 
